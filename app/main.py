@@ -14,7 +14,7 @@ spa_token = st.text_input('Spanish Word')
 
 # Import cleaner version / lighter v.
 # Clean data, one element / dict inside
-df = pd.read_csv('app/output.csv')
+df = pd.read_csv('output.csv')
 # fix paths to rela
 
 ### Find match ###
