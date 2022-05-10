@@ -1,0 +1,30 @@
+INSTALLING MYSQL VERSION OF THE MCR 3.0
+--------------------------------------------
+
+Installing the MCR 3.0 as a mysql database only requires the following 3 steps:
+
+0. Uncompress the selected MCR package into a PATH_TO_MCR directory.
+
+1. From PATH_TO_MCR connect to MySQL:
+
+    - > mysql -u username -p --local-infile
+
+2. Create a database, choosing utf-8.bin as collation, into which the MCR 3.0 tables and data will be loaded. In the mysql prompt you need to write this:
+
+    - CREATE DATABASE mcr30 CHARACTER SET utf8 COLLATE utf8_bin;
+    - use mcr30; to change to the newly created database
+    - show databases; to prompt to list the databases in the server
+
+3. Execute the .sql statements in 'mcr3.0_create_tables.sql' to create the tables.
+
+    - source mysql/mcr3.0_create_tables.sql;
+    - show tables; to see your newly created tables
+
+4. Execute the .sql statements in 'mcr3.0_load_data.sql'. NOTE: REMEMBER MODIFY the execution path to your own environment !!
+
+    - source mysql/mcr3.0_load_data.sql;
+    - SELECT * FROM [table name]; to see all data in a given table
+
+5. Of course, you can use phpmyadmin to do all of the above in a friendly and easy to use GUI.
+
+

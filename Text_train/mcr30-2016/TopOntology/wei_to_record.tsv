@@ -1,0 +1,64 @@
+1stOrderEntity	Any concrete entity (publicly) perceivable by the senses and located at any point in time, in a three-dimensional space. e.g.: vehicle, animal, substance,  object.
+2ndOrderEntity	Any Static Situation (property, relation) or Dynamic Situation, which cannot be grasped, heart, seen, felt as an independent physical thing. They can be located in time and occur or take place rather than exist; e.g. happen, be, have, begin, end, cause, result, continue, occur.
+3rdOrderEntity	An unobservable proposition which exists independently of time and space. They can be true or false rather than real. They can be asserted or denied, remembered or forgotten. E.g. idea, though, information, theory, plan.
+Agentive	Situations in which a controlling agent causes a dynamic change; e.g. to kill, to do; to act. Opposed to other causes such as Stimuli, Forces, Chance, Phenomena.
+Animal	; e.g. animal, dog
+Artifact	Anything manufactured by people as opposed to natural
+BoundedEvent	Dynamic Situations in which a specific transition from one Situation to another is implied; Bounded in time and directed to a result; e.g. to do, to cause to change, to make, to create
+Building	; e.g. house, hotel, church, office
+Cause	Situations involving causation of Situations (both Static and Dynamic); result, effect, cause, prevent
+Comestible	Food & drinks, including substances, liquids and objects.
+Communication	Situations involving communication, either Static, e.g. be_about or Dynamic (Bounded and Unbounded); e.g. speak, tell, listen, command, order, ask, state, statement, conversation, call.
+Composition	Considering the composition of concrete entities in terms of parts, groups and larger constructs
+Condition	Situations involving an evaluative state of something: Static, e.g. health, disease, success or Dynamic e.g. worsen, improve.
+Container	; e.g. bag, tube, box
+Covering	; skin, cloth, shield,
+Creature	Imaginary creatures; e.g. god, Faust, E.T.
+Dynamic	Situations implying either a specific transition from a state to another (Bounded in time) or a continuous transition perceived as an ongoing temporally unbounded process; e.g. event, act, action, become, happen, take place, process, habit, change, activity. Opposed to Static.
+Existence	Situations involving the existence of objects and substances; Static states of existence e.g. exist, be, be alive, life, live, death; Dynamic changes in existence; e.g. kill, produce, make, create, destroy, die, birth.
+Experience	Situations which involve an experiencer: either mental or perceptual through the senses.
+Form	Considering the shape of concrete entities, fixed as an object or a-morf as a substance.
+Function	Considering the purpose, role or main activity of a concrete entity. Typically it can be used for nouns that can refer to any substance, object which is involved in a certain way in some event or process; e.g. remains, product, threat.
+Furniture	; e.g. table, chair, lamp
+Garment	; e.g. jacket, trousers, shawl
+Gas	Substance which cannot fall, you can inhale it and it floats above the ground; e.g. air, ozon
+Group	Any concrete entity consisting of multiple discrete objects (either homogeneous or heterogeneous sets), typically people, animals, vehicles; e.g. traffic, people, army, herd, fleet
+Human	; e.g. person, someone
+ImageRepresentation	Physical Representations conveyed in a visual medium; e.g. sign language, traffic sign, light signal
+Instrument	; e.g. tool, machine, weapon
+LanguageRepresentation	Physical Representations conveyed in language (e.g. spoken, written or sign language); e.g. text, word, utterance, sentence, poem
+Liquid	Substance which can fall, feels wet and can flow on the ground; e.g. water, soup, rain
+Living	Anything living and dying including objects, organic parts or tissue, bodily fluids; e.g. cells; skin; hair, organism, organs.
+Location	Situations involving spatial relations; static e.g. level, distance, separation, course, track, way, path; something changes location, irrespective of the causation of the change; e.g. move, put, fall, drop, drag, glide, fill, pour, empty, take out, enter
+Manner	Situations in which the way or manner plays a role. This may be Manner incorporated in a dynamic situation, e.g. ways of movement such as walk, swim, fly, or the static Property itself: e.g. manner, sloppy, strongly, way.
+Mental	Situations experienced in mind, including a concept, idea or the interpretation or message conveyed by a symbol or performance (meaning, denotation, content, topic, story, message, interpretation) and emotional and attitudinal situations; a mental state is changed; e.g. invent, remember, learn, think, consider. Opposed to Physical.
+Modal	Situations (only Static) involving the possibility or likelihood of other situations as opposed to actual situations; e.g. abilities, power, force, strength
+MoneyRepresentation	Physical Representations of value, or money; e.g. share, coin
+Natural	Anything produced by nature and physical forces as opposed to artifact
+Object	Any conceptually-countable concrete entity with an outer limit; e.g. book, car, person, brick.
+Occupation	; e.g. doctor, researcher, journalist, manager
+Origin	Considering the way concrete entities are created or come into existence.
+Part	Any concrete entity which is contained in an object, substance or a group; head, juice, nose, limb, blood, finger, wheel, brick, door
+Phenomenal	Situations that occur in nature controlled or uncontrolled or considered as a force; e.g. weather, chance
+Physical	Situations involving perceptual and measurable properties of first order entities; either Static e.g. health, a colour, a shape, a smell; or Dynamic changes and perceptions of the physical properties of first order entities; e.g. redden, thicken, widen, enlarge, crush, form, shape, fold, wrap, thicken, to see, hear, notice, smell. Opposed to Mental.
+Place	Concrete entities functioning as the location for something else; e.g. place, spot, centre, North, South
+Plant	; e.g. plant, rice
+Possession	Situations involving possession; Static e.g. have, possess, possession, contain, consist of, own; Dynamic changes in possession, often to be combined which changes in location as well; e.g. sell, buy, give, donate, steal, take, receive, send.
+Property	Static Situation which applies to a single concrete entity or abstract Situation; e.g. colour, speed, age, length, size, shape, weight.
+Purpose	Situations which are intended to have some effect.
+Quantity	Situations involving quantity and measure ; Static e.g. weight, heaviness, lightness; changes of the quantity of first order entities; Dynamic e.g. to lessen, increase, decrease
+Relation	Static Situation which applies to a pair of concrete entities or abstract Situations, and which cannot exist by itself without either one of the involved entities; e.g. relation, kinship, distance, space.
+Representation	Any concrete entity used for conveying a message; e.g. traffic sign, word, money.
+SituationComponent	Considering the conceptual components that play a role in Situations. Situations can be cross-classified by any number of Situation Components
+SituationType	Considering the predicate-inherent Aktionsart properties of Situations: dynamicity and boundedness in time. Subclasses are disjoint, every 2ndOrderEntity has only 1 SituationType.
+Social	Situations related to society and social interaction of people: Static e.g. employment, poor, rich, Dynamic e.g. work, management, recreation, religion, science.
+Software	; e.g. computer programs and databases
+Solid	Substance which can fall, does not feel wet and you cannot inhale it; e.g. stone, dust, plastic, ice, metal
+Static	Situations (properties, relations and states) in which there is no transition from one eventuality or situation to another: non-dynamic; e.g. state, property, be. Opposed to Dynamic.
+Stimulating	Situations in which something elicits or arouses a perception or provides the motivation for some event, e.g. sounds (song, bang, beep, rattle, snore), views, smelling, appetizing, motivation.
+Substance	all stuff without boundary or fixed shape, considered from a conceptual point of view not from a linguistic point of view; e.g. mass, material, water, sand, air.
+Time	Situations in which duration or time plays a significant role; Static yesterday, day, pass, long, period, Dynamic e.g. begin, end, last, continue
+Top	all
+UnboundedEvent	Dynamic Situations occurring during a period of time and composed of a sequence of (micro-)changes of state, which are not perceived as relevant for characterizing the Situation as a whole; e.g. grow, change, move around, live, breath, activity, hobby, sport, education, work, performance, fight, love, caring, management.
+Usage	Situations in which something (an instrument, substance, time, effort, force, money) is or can be used; e.g. to use, to spent, to represent, to mean, to be about, to operate, to fly, drive, run, eat , drink, consume.
+Vehicle	; e.g. car, ship, boat
