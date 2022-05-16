@@ -59,3 +59,8 @@ getting the clean input to visualise
 enhance print of translation
 needs lemmatization in spanish
 display the closest match from the input
+
+Split the notebook
+focus on the text cleaning and text processing
+
+
