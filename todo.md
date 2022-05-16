@@ -46,3 +46,16 @@ interact with data . . .
 # Article
 - [ ]  
 - [ ] 
+
+16 May:
+
+dic_processing
+With new input text file, more homogeinity in the file.
+The ouptu csv now also contian all the examples. All example procecced have the same structure.
+Some more are maiybe available but not relevant.
+
+streamlit app
+getting the clean input to visualise
+enhance print of translation
+needs lemmatization in spanish
+display the closest match from the input

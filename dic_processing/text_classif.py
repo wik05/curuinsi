@@ -104,6 +104,7 @@ def tokenize_multi_n_pos(entry):
     tokenized_entry.append(pos_list)
     tokenized_entry.append(spa_list)
     return(tokenized_entry)
+
 # Use epceifics functions from above to classify content of each entries
 def tokenize_entry(df):
     entry  = df['dic_entry']
@@ -147,4 +148,57 @@ def tokenize_entry(df):
         df['n_pos'] = len(tokenized_entry[1])
         df['token_spa'] = tokenized_entry[2]
         df['n_tra'] = len(tokenized_entry[2])
+    return(df)
+
+def tokenize_examples(df):
+    example = []
+    for i in range(df.shape[0]):
+        str = df['dic_entry'][i]
+        match = re.search(r'([A-Z].*\.)',str)
+        if match:
+            str2 = match.group(0)
+            match2 = re.search(r'[\(]',str2)
+            if match2:
+                example.append('')
+            else:
+                example.append(match.group(0))
+        else:
+            example.append('')
+        # * cases, tikuna esp
+        # mismatch an entry without pos tag
+        # Spanish descritpion of meaning
+    df['example'] = example
+
+    # In the Content captured with the Uppercase, not everything is Tikuna.
+    # The cleaning focuses on removing the content begining with Var. referecing to another entry.
+    # The [Tikuna sense][.][space][Sanish sentence][.] Pattern capture most of the content with the first regex.
+
+    example_spanish = []
+    example_tikuna = []
+    exclude = [None,'',' ','Var.','\n','\t','\r','\f']
+    annotated_examples = 0
+    other_text = 0
+    to_review = 0
+    for i in range(df.shape[0]):
+        str = df['example'][i]
+        match = re.search(r'(?P<tikuna>[A-Z].*(\.|\!|\?|\¿))\s*'
+        r'(?P<spanish>[A-ZÈÉ].*(\.|\!|\?|\¿))',str)
+        if match:
+            example_tikuna.append(match.group(1))
+            example_spanish.append(match.group(2))
+            annotated_examples += 1
+        else:
+            if df['example'][i] not in exclude:
+                str = df['example'][i]
+                match = re.search(r'[A-Z].*\.?\s?[A-Z].*\.?',str)
+                if match:
+                    #print(df['example'][i])
+                    match2 = re.search(r'(Indica|Se usa|\[])',str)
+                    if match2:
+                        other_text +=1
+                    else:
+                        df['example'][i] = re.sub(r'(\s+([A-Z]))',r'\.\1',str)
+                else:
+                    #print(df['example'][i])
+                    to_review += 1
     return(df)
