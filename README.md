@@ -17,7 +17,7 @@
 ```
 
 ### venv
-'''bash
+'''python
 source venv/bon/activate
 '''
 ### Dic_preprocessing
