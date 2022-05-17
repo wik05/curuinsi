@@ -17,9 +17,9 @@
 ```
 
 ### venv
-'''python
-source venv/bon/activate
-'''
+```python
+source venv/bin/activate
+```
 ### Dic_preprocessing
 Input  :  the converted PDF to text file with one line per entry of dictionary.
 Output :  csv with all content from the dictionary entry tokenized.
@@ -30,9 +30,9 @@ Input : csv file with all content from the dictionary entry tokenized.
 
 if dependencies are correctly installed, 
 
-'''python
+```python
 streamlit run main.py # app lauch automatically in browser
-'''
+```
 
 ### text_preprocessing
 Convert and clean various data available in spanish and in tikuna.
