@@ -10,8 +10,8 @@ df = categorize_synset(df)
 master_df = df.apply(tokenize_entry,axis=1)
 master_df = tokenize_examples(master_df)
   
-master_dfl = master_df[['token_tikuna','token_oral','token_pos','token_spa','entry_type','synset_type','n_pos','n_tra','dic_entry','tokenized_entry','example']]
-master_dl = master_df[['token_tikuna','token_oral','token_pos','token_spa','dic_entry','example']]
+master_dfl = master_df[['token_tikuna','token_oral','token_pos','token_spa','entry_type','synset_type','n_pos','n_tra','dic_entry','tokenized_entry','example','example_tikuna','example_spanish']]
+master_dl = master_df[['token_tikuna','token_oral','token_pos','token_spa','dic_entry','example','example_tikuna','example_spanish']]
 
 
 # Generate CSV

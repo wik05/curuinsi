@@ -1,1 +1,66 @@
-<mxfile host="Electron" modified="2022-05-16T08:39:25.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/18.0.4 Chrome/100.0.4896.143 Electron/18.2.3 Safari/537.36" etag="f9JKmdm9N9-d0mlm9CBk" version="18.0.4" type="device" pages="2"><diagram id="h2uhwnl8icA4pP6MbThw" name="dic_processing">5Vldc9soFP01nn1qx/q08pg4afuQ7nY2s9v2yYPhCtEioUHIH/vrFwSyJUtJ3Fk77jYviTiAgHMu54I8Ceb55r1EZfZREOATf0o2k+B24vte6CX6n0G2FpmFngWoZMRC0z3wwP4B17NFa0agcpiFlBBcsbIPYlEUgFUPQ1KKdb9ZKjjpASWi0JuGAR4w4jBo9pkRlVk08Wd7/AMwmrUje/GVrclR29i9uMoQEesOFNxNgrkUQtmnfDMHbsjr8/LukdrdxCQU6pgO/pR/+gYzxq7/+vs+rRer6s/sTezmprbtgoHo9buikCoTVBSI3+3RGynqgoB561SX9m3uhSg16GnwGyi1dWKiWgkNZSrnrtaOaQZ6dCkOqkQtMTwxf9+FBJIU1BPtgh3hOlJB5KDkVveTwJFiq/48kAsZumu3Z1U/OGJ/gGQ3yRXitRvpI2LFxI+5nvLNUuonqna8dLTYM21oW2dMwUOJGkLWeruNsboCqWDzNK9DHlyHMLI93F71vcCW1/vI99pwzjpRH0/PxFwwYI4wbHZ7tRqQpfdXaR7xljPNmgyep2xp+b1f7gCEv9OG9T9qpV8DDq9sKHvRaXjWLtgnejokOh7hOTkXz9ElbECTJbdfXP+m8NUU3kZt8XbTrbzdutIJ7SM80j78S9pHONgEJUkXSix0AKojXEQPobMlvIiDvPHC+NnQHvWQs8X2bMxDFqUUGKqKFfTn9+H2SHExG04GFJrQW2CONIPpz0ZX4CcX5utqwFcFNDer0b6FcGZXZ0oiNfaTgTkhM6yYNtBmZY3jmakVxJZAmkELazoAK9S8DAte58ecJBqr6PFeKSm+w1xwITVSCJPrblLG+QGEOKOFSat2EsGNkYrpA/K1q8gZIfwxd+kniRNoHb09EDsZEfvqasRf4jOJ3d5Uusc7USluEwSFjb6+mEuL/rOsGSeHUluJdQwYcbEEpJpoQAqlEuWm8+tR1+9pG/rRy2n7aX6NZnJK4V3w+S6NKC5o8n+6Ho3Ov70xd843o+2iFzrfPDXJ7vlGVAuFKG2y839JLt2In/hBmmDAeLA9dM0yicLoREEcegceFXkjcXyuhDRK8fAG+oAlK9XOmRzjZo5CkgbOkMkwRBS/mf8ZWhlbYqpNQ72kZa3sV3WlIDwUtDWcrqBBOCJociZBhxfj34WRBpUlZ2ASSiHWr0iROAovrMjILc1eMRo1nFOb/YRrexL8ZbWJjviK9KLSRANpLv8V6SKZyY/7352i6TAxneu706gyw7s5FJIBzl7dpomD548MJ9o0urj/1aGp6/x2E9z9Cw==</diagram><diagram id="AFzOYeR_EV6LKgdHaR3u" name="text_cleaning">ddHNDoMgDADgp+EusEx3dn+XnTzsTKQTErQGWXR7+mnQuWbbCfjaQlOYzOvh5FVrLqjBMZHogck9E4InPBuXSR5R0g2PUHmrIyUrFPYJS+Wsd6uhmy1SQHTBthRLbBooAzHlPfY07YZOE2hVBaSNCYpSOfhKu1odTNRMpKufwVZmeZlvdzFSqyV5vrgzSmP/QfLAZO4RQ9zVQw5uGh6dy/FP9N2Yhyb8KBg3693jgfyQPLwA</diagram></mxfile>
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="h2uhwnl8icA4pP6MbThw" name="dic_processing">
+        <mxGraphModel dx="2272" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="20lPje7iiAUVLfu_vsRh-2" target="20lPje7iiAUVLfu_vsRh-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-2" value="Main&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="213" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-3" value="dic csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+                    <mxGeometry x="274" y="203" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="20lPje7iiAUVLfu_vsRh-4" target="20lPje7iiAUVLfu_vsRh-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-4" value="pdf_to_text&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-146" y="203" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-7" value="dic_processing&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="69" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-8" value="text_classif" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="328" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-9" value="segment each part of the dictionary entry and enter in releevant column&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="5.5" y="388" width="199" height="86" as="geometry"/>
+                </mxCell>
+                <mxCell id="20lPje7iiAUVLfu_vsRh-10" value="Mostly regexes to build dictionary and then create dataframes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="2" y="425" width="199" height="86" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PCAa7r0geF3WEf5gcng8-1" target="PCAa7r0geF3WEf5gcng8-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-1" value="pos_tagging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="41.5" y="515" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-2" value="Scripts to pos_tag words that don't have it in the dictionnary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="34.5" y="586" width="134" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-3" value="Not applied now" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="34.5" y="654" width="134" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-4" value="processed source document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="355" y="213" width="134" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-5" value="dic csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="505" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="PCAa7r0geF3WEf5gcng8-7" value="enrieched source document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="363" y="515" width="134" height="68" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="AFzOYeR_EV6LKgdHaR3u" name="text_cleaning">
+        <mxGraphModel dx="1872" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

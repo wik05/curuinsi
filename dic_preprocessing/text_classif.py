@@ -182,12 +182,14 @@ def tokenize_examples(df):
     for i in range(df.shape[0]):
         str = df['example'][i]
         match = re.search(r'(?P<tikuna>[A-Z].*(\.|\!|\?|\¿))\s*'
-        r'(?P<spanish>[A-ZÈÉ].*(\.|\!|\?|\¿))',str)
+        r'(?P<spanish>.?[A-ZÈÉ].*(\.|\!|\?|\¿))',str)
         if match:
             example_tikuna.append(match.group(1))
-            example_spanish.append(match.group(2))
+            example_spanish.append(match.group(3))
             annotated_examples += 1
         else:
+            example_tikuna.append('')
+            example_spanish.append('')
             if df['example'][i] not in exclude:
                 str = df['example'][i]
                 match = re.search(r'[A-Z].*\.?\s?[A-Z].*\.?',str)
@@ -201,4 +203,10 @@ def tokenize_examples(df):
                 else:
                     #print(df['example'][i])
                     to_review += 1
+    df['example_tikuna'] = example_tikuna
+    df['example_spanish'] = example_spanish
+# total = df.shape[0]
+# empty = total -  annotated_examples
+# feedback = pd.DataFrame([[annotated_examples,other_text,to_review,empty,total]],columns=['full_example','other','to_review','empty_examples','total_entries'])
+# feedback
     return(df)
