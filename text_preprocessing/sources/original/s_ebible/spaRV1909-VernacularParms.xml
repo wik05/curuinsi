@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vernacularParms>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularFullName">Génesis</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularFullName">Éxodo</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularFullName">Levítico</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularFullName">Números</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularFullName">Deuteronomio</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularFullName">Josué</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularFullName">Jueces</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularFullName">Rut</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularFullName">1 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularFullName">2 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularFullName">1 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularFullName">2 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularFullName">1 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularFullName">2 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularFullName">Esdras</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularFullName">Nehemías</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularFullName">Ester</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularFullName">Job</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularFullName">Salmos</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularFullName">Proverbios</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularFullName">Eclesiastés</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularFullName">Cantar de los Cantares</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularFullName">Isaías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularFullName">Jeremías</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularFullName">Lamentaciones</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularFullName">Ezequiel</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularFullName">Daniel</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularFullName">Oseas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularFullName">Joel</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularFullName">Amós</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularFullName">Abdías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularFullName">Jonás</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularFullName">Miqueas</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularFullName">Nahum</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularFullName">Habacuc</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularFullName">Sofonías</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularFullName">Hageo</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularFullName">Zacarías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularFullName">Malaquías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularFullName">San Mateo</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularFullName">Marcos</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularFullName">San Lucas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularFullName">Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularFullName">Hechos</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularFullName">Romanos</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularFullName">1 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularFullName">2 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularFullName">Gálatas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularFullName">Efesios</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularFullName">Filipenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularFullName">Colosenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularFullName">1 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularFullName">2 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularFullName">1 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularFullName">2 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularFullName">Tito</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularFullName">Filemón</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularFullName">Hebreos</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularFullName">Santiago</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularFullName">1 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularFullName">2 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularFullName">1 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularFullName">2 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularFullName">3 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularFullName">Judas</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularFullName">Apocalipsis</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularAbbreviatedName">Génesis</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularAbbreviatedName">Éxodo</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularAbbreviatedName">Levítico</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularAbbreviatedName">Números</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularAbbreviatedName">Deuteronomio</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularAbbreviatedName">Josué</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularAbbreviatedName">Jueces</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularAbbreviatedName">Rut</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularAbbreviatedName">1 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularAbbreviatedName">2 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularAbbreviatedName">1 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularAbbreviatedName">2 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularAbbreviatedName">1 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularAbbreviatedName">2 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularAbbreviatedName">Esdras</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularAbbreviatedName">Nehemías</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularAbbreviatedName">Ester</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularAbbreviatedName">Job</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularAbbreviatedName">Salmos</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularAbbreviatedName">Proverbios</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularAbbreviatedName">Eclesiastés</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularAbbreviatedName">Cantar de los Cantares</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularAbbreviatedName">Isaías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularAbbreviatedName">Jeremías</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularAbbreviatedName">Lamentaciones</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularAbbreviatedName">Ezequiel</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularAbbreviatedName">Daniel</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularAbbreviatedName">Oseas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularAbbreviatedName">Joel</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularAbbreviatedName">Amós</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularAbbreviatedName">Abdías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularAbbreviatedName">Jonás</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularAbbreviatedName">Miqueas</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularAbbreviatedName">Nahum</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularAbbreviatedName">Habacuc</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularAbbreviatedName">Sofonías</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularAbbreviatedName">Hageo</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularAbbreviatedName">Zacarías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularAbbreviatedName">Malaquías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularAbbreviatedName">San Mateo</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularAbbreviatedName">Marcos</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularAbbreviatedName">San Lucas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularAbbreviatedName">Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularAbbreviatedName">Hechos</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularAbbreviatedName">Romanos</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularAbbreviatedName">1 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularAbbreviatedName">2 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularAbbreviatedName">Gálatas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularAbbreviatedName">Efesios</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularAbbreviatedName">Filipenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularAbbreviatedName">Colosenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularAbbreviatedName">1 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularAbbreviatedName">2 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularAbbreviatedName">1 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularAbbreviatedName">2 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularAbbreviatedName">Tito</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularAbbreviatedName">Filemón</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularAbbreviatedName">Hebreos</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularAbbreviatedName">Santiago</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularAbbreviatedName">1 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularAbbreviatedName">2 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularAbbreviatedName">1 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularAbbreviatedName">2 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularAbbreviatedName">3 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularAbbreviatedName">Judas</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularAbbreviatedName">Apocalipsis</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularBookAbbreviation">Génesis</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularBookAbbreviation">Éxodo</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularBookAbbreviation">Levítico</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularBookAbbreviation">Números</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularBookAbbreviation">Deuteronomio</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularBookAbbreviation">Josué</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularBookAbbreviation">Jueces</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularBookAbbreviation">Rut</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularBookAbbreviation">1 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularBookAbbreviation">2 Samuel</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularBookAbbreviation">1 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularBookAbbreviation">2 Reyes</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularBookAbbreviation">1 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularBookAbbreviation">2 Crónicas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularBookAbbreviation">Esdras</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularBookAbbreviation">Nehemías</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularBookAbbreviation">Ester</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularBookAbbreviation">Job</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularBookAbbreviation">Salmos</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularBookAbbreviation">Proverbios</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularBookAbbreviation">Eclesiastés</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularBookAbbreviation">Cantar de los Cantares</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularBookAbbreviation">Isaías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularBookAbbreviation">Jeremías</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularBookAbbreviation">Lamentaciones</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularBookAbbreviation">Ezequiel</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularBookAbbreviation">Daniel</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularBookAbbreviation">Oseas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularBookAbbreviation">Joel</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularBookAbbreviation">Amós</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularBookAbbreviation">Abdías</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularBookAbbreviation">Jonás</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularBookAbbreviation">Miqueas</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularBookAbbreviation">Nahum</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularBookAbbreviation">Habacuc</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularBookAbbreviation">Sofonías</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularBookAbbreviation">Hageo</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularBookAbbreviation">Zacarías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularBookAbbreviation">Malaquías</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularBookAbbreviation">San Mateo</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularBookAbbreviation">Marcos</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularBookAbbreviation">San Lucas</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularBookAbbreviation">Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularBookAbbreviation">Hechos</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularBookAbbreviation">Romanos</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularBookAbbreviation">1 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularBookAbbreviation">2 Corintios</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularBookAbbreviation">Gálatas</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularBookAbbreviation">Efesios</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularBookAbbreviation">Filipenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularBookAbbreviation">Colosenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularBookAbbreviation">1 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularBookAbbreviation">2 Tesalonicenses</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularBookAbbreviation">1 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularBookAbbreviation">2 Timoteo</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularBookAbbreviation">Tito</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularBookAbbreviation">Filemón</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularBookAbbreviation">Hebreos</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularBookAbbreviation">Santiago</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularBookAbbreviation">1 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularBookAbbreviation">2 Pedro</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularBookAbbreviation">1 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularBookAbbreviation">2 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularBookAbbreviation">3 Juan</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularBookAbbreviation">Judas</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularBookAbbreviation">Apocalipsis</scriptureBook>
+  <dcMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator>Reina y Valera</dc:creator>
+    <dc:contributor />
+    <dc:title>Santa Biblia — Reina Valera 1909</dc:title>
+    <dc:description>The Holy Bible in Spanish, Reina Valera translation of 1909</dc:description>
+    <dc:date>2013-12-13</dc:date>
+    <dc:format>digital</dc:format>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Digital Bible Society</dc:publisher>
+    <dc:rights>Public DomainDominio Público</dc:rights>
+    <dc:identifier />
+    <dc:type />
+  </dcMeta>
+  <numberSystem>Default</numberSystem>
+  <chapterAndVerseSeparator>:</chapterAndVerseSeparator>
+  <rangeSeparator>-</rangeSeparator>
+  <multiRefSameChapterSeparator>,</multiRefSameChapterSeparator>
+  <multiRefDifferentChapterSeparator>;</multiRefDifferentChapterSeparator>
+  <verseNumberLocation>Begin</verseNumberLocation>
+  <footnoteMarkerStyle>Circulate</footnoteMarkerStyle>
+  <footnoteMarkerResetAt>Book</footnoteMarkerResetAt>
+  <footnoteMarkers>* † ‡ §</footnoteMarkers>
+  <BookSourceForMarkerXt>ShortName</BookSourceForMarkerXt>
+  <BookSourceForMarkerR>ShortName</BookSourceForMarkerR>
+  <iso>spa</iso>
+  <isoVariant>Castellano 1909</isoVariant>
+  <langName>Español</langName>
+  <textDir>ltr</textDir>
+  <hasNotes>True</hasNotes>
+  <coverTitle>Santa Biblia — Reina Valera 1909</coverTitle>
+</vernacularParms>

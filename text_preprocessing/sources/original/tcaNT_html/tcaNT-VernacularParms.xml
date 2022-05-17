@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vernacularParms>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularFullName">ORE I MEXÜ̃ GA MATEU ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularFullName">ORE I MEXÜ̃ GA MARCU ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularFullName">ORE I MEXÜ̃ GA LUCA ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularFullName">ORE I MEXÜ̃ GA CUÁÜ̃ ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularFullName">NGECHUCHUARÜ NGÚEXÜ̃GÜ GA YAMUGÜXÜ̃ÃRÜ PURACÜCHIGA</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularFullName">POPERA GA DUMAWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularFullName">NÜXĨRAÜ̃XÜ̃ GA POPERA GA CORĨ́TIUCÜ̱̃Ã̱X GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularFullName">NORÜ TAXRE GA POPERA GA CORĨ́TIUCÜ̱̃Ã̱X GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularFullName">POPERA GA GÁRATAANEWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularFullName">POPERA GA EPÉCHIUWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularFullName">POPERA GA PIRIPUWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularFullName">POPERA GA COROCHAWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularFullName">NÜXĨRAÜ̃XÜ̃ GA POPERA GA TECHARÓNICAWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularFullName">NORÜ TAXRE GA POPERA GA TECHARÓNICAWA YEXMAGÜXÜ̃ GA YAXÕGÜXÜ̃TANÜWA NAMUXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularFullName">NÜXĨRAÜ̃XÜ̃ GA POPERA GA TIMUTÉUCA̱X NAXÜMATÜXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularFullName">NORÜ TAXRE GA POPERA GA TIMUTÉUCA̱X NAXÜMATÜXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularFullName">POPERA GA TITUCA̱X NAXÜMATÜXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularFullName">POPERA GA FILEMÚÜ̃CA̱X NAXÜMATÜXÜ̃ GA PAURU</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularFullName">POPERA GA YUDÍUGÜ GA YAXÕGÜXÜ̃CA̱X ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularFullName">TUPANAARÜ ORE GA CHAÜ̃TIÁGU ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularFullName">NÜXĨRAÜ̃XÜ̃ GA POPERA GA PEDRU ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularFullName">NORÜ TAXRE GA POPERA GA PEDRU ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularFullName">NÜXĨRAÜ̃XÜ̃ GA POPERA GA CUÁÜ̃ ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularFullName">NORÜ TAXRE GA POPERA GA CUÁÜ̃ ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularFullName">NORÜ TOMAẼ̱XPÜ̱̃X GA POPERA GA CUÁÜ̃ ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularFullName">POPERA GA YUDA ÜMATÜXÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularFullName">YEMA CUÁÜ̃ NÜXÜ̃ DAUXÜ̃ I YIXCÜRA TÁ NGUPETÜXÜ̃CHIGA</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularAbbreviatedName">MATEU</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularAbbreviatedName">MARCU</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularAbbreviatedName">LUCA</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularAbbreviatedName">CUÁÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularAbbreviatedName">PURACÜGÜ</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularAbbreviatedName">DUMACÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularAbbreviatedName">1 CORĨ́TIUCÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularAbbreviatedName">2 CORĨ́TIUCÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularAbbreviatedName">GÁRATAANECÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularAbbreviatedName">EPÉCHIUCÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularAbbreviatedName">PIRIPUCÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularAbbreviatedName">COROCHACÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularAbbreviatedName">1 TECHARÓNICACÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularAbbreviatedName">2 TECHARÓNICACÜ̱̃Ã̱X</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularAbbreviatedName">1 TIMUTÉU</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularAbbreviatedName">TIMUTÉU</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularAbbreviatedName">TITU</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularAbbreviatedName">FILEMÚÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularAbbreviatedName">EBRÉUGÜ</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularAbbreviatedName">CHAÜ̃TIÁGU</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularAbbreviatedName">1 PEDRU</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularAbbreviatedName">2 PEDRU</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularAbbreviatedName">1 CUÁÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularAbbreviatedName">2 CUÁÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularAbbreviatedName">3 CUÁÜ̃</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularAbbreviatedName">YUDA</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularAbbreviatedName">APOCARÍCHIU</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAT" parm="vernacularBookAbbreviation">Mt</scriptureBook>
+  <scriptureBook ubsAbbreviation="MRK" parm="vernacularBookAbbreviation">Mr</scriptureBook>
+  <scriptureBook ubsAbbreviation="LUK" parm="vernacularBookAbbreviation">Lc</scriptureBook>
+  <scriptureBook ubsAbbreviation="JHN" parm="vernacularBookAbbreviation">Cu</scriptureBook>
+  <scriptureBook ubsAbbreviation="ACT" parm="vernacularBookAbbreviation">Pu</scriptureBook>
+  <scriptureBook ubsAbbreviation="ROM" parm="vernacularBookAbbreviation">Du</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CO" parm="vernacularBookAbbreviation">1 Co</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CO" parm="vernacularBookAbbreviation">2 Co</scriptureBook>
+  <scriptureBook ubsAbbreviation="GAL" parm="vernacularBookAbbreviation">Gár</scriptureBook>
+  <scriptureBook ubsAbbreviation="EPH" parm="vernacularBookAbbreviation">Epé</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHP" parm="vernacularBookAbbreviation">Pir</scriptureBook>
+  <scriptureBook ubsAbbreviation="COL" parm="vernacularBookAbbreviation">Cor</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TH" parm="vernacularBookAbbreviation">1 Te</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TH" parm="vernacularBookAbbreviation">2 Te</scriptureBook>
+  <scriptureBook ubsAbbreviation="1TI" parm="vernacularBookAbbreviation">1 Ti</scriptureBook>
+  <scriptureBook ubsAbbreviation="2TI" parm="vernacularBookAbbreviation">2 Ti</scriptureBook>
+  <scriptureBook ubsAbbreviation="TIT" parm="vernacularBookAbbreviation">Tit</scriptureBook>
+  <scriptureBook ubsAbbreviation="PHM" parm="vernacularBookAbbreviation">Fil</scriptureBook>
+  <scriptureBook ubsAbbreviation="HEB" parm="vernacularBookAbbreviation">Eb</scriptureBook>
+  <scriptureBook ubsAbbreviation="JAS" parm="vernacularBookAbbreviation">Chg</scriptureBook>
+  <scriptureBook ubsAbbreviation="1PE" parm="vernacularBookAbbreviation">1 P</scriptureBook>
+  <scriptureBook ubsAbbreviation="2PE" parm="vernacularBookAbbreviation">2 P</scriptureBook>
+  <scriptureBook ubsAbbreviation="1JN" parm="vernacularBookAbbreviation">1 Cu</scriptureBook>
+  <scriptureBook ubsAbbreviation="2JN" parm="vernacularBookAbbreviation">2 Cu</scriptureBook>
+  <scriptureBook ubsAbbreviation="3JN" parm="vernacularBookAbbreviation">3 Cu</scriptureBook>
+  <scriptureBook ubsAbbreviation="JUD" parm="vernacularBookAbbreviation">Yu</scriptureBook>
+  <scriptureBook ubsAbbreviation="REV" parm="vernacularBookAbbreviation">Ap</scriptureBook>
+  <dcMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator>Wycliffe Bible Translators, Inc.</dc:creator>
+    <dc:contributor />
+    <dc:title>Tupanaarü Ore i Tórü Cori ya Ngechuchu ya Cristuchiga</dc:title>
+    <dc:description>New Testament in Ticuna (PE:tca:Ticuna)</dc:description>
+    <dc:date>2014-04-30</dc:date>
+    <dc:format>digital</dc:format>
+    <dc:language>tca</dc:language>
+    <dc:publisher>PNG Bible Translation Association</dc:publisher>
+    <dc:rights>Copyright © 2008 Wycliffe Bible Translators, Inc.
+© 2008, Wycliffe Bible Translators, Inc. All rights reserved.
+
+This work is made available to you under the terms of the Creative Commons Attribution-Noncommercial-No Derivative Works license at https://creativecommons.org/licenses/by-nc-nd/4.0/.
+© 2008, Wycliffe Bible Translators, Inc. All rights reserved.</dc:rights>
+    <dc:identifier />
+    <dc:type />
+  </dcMeta>
+  <numberSystem>Default</numberSystem>
+  <chapterAndVerseSeparator>:</chapterAndVerseSeparator>
+  <rangeSeparator>-</rangeSeparator>
+  <multiRefSameChapterSeparator>,</multiRefSameChapterSeparator>
+  <multiRefDifferentChapterSeparator>;</multiRefDifferentChapterSeparator>
+  <verseNumberLocation>Begin</verseNumberLocation>
+  <footnoteMarkerStyle>Circulate</footnoteMarkerStyle>
+  <footnoteMarkerResetAt>Book</footnoteMarkerResetAt>
+  <footnoteMarkers>* † ‡ §</footnoteMarkers>
+  <BookSourceForMarkerXt>ShortName</BookSourceForMarkerXt>
+  <BookSourceForMarkerR>ShortName</BookSourceForMarkerR>
+  <iso>tca</iso>
+  <isoVariant />
+  <langName>Ticuna</langName>
+  <textDir>ltr</textDir>
+  <hasNotes>True</hasNotes>
+  <coverTitle>Tupanaarü Ore i Tórü Cori ya Ngechuchu ya Cristuchiga</coverTitle>
+</vernacularParms>

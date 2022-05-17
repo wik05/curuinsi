@@ -1,0 +1,4 @@
+------	Default value for synsets without mark
+HYPLEX	Hypernym has identical lexicalization
+SPECLEX	Domain specific terms that should be checked
+GENLEX	Non-lexicalized general concepts that are introduced to better organize the hierarchy
