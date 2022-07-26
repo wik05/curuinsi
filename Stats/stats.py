@@ -52,3 +52,46 @@ def missing_zero_values_table(df):
 #(dferr['spacy_pos'].values == 'missing').sum()           #
 #(dferr['token_pos'].values == 'missing').sum()           #
 #(dferr['token_spa'].values == 'missing').sum()    
+
+# Count length function, move to stat 
+# from nltk.tokenize import RegexpTokenizer
+# # tokenizer = RegexpTokenizer(r'\w+')
+# # tokenizer.tokenize(txt)
+# def get_size_corpus(txt):
+#     #n_token = {'spanish':'','tikuna':''}
+#     tokenizer = RegexpTokenizer(r'\w+')
+#     n_token = len(tokenizer.tokenize(txt))
+#     return(n_token)
+
+# ss = 0
+# st = 0
+# for k,v in master_output_training['ebible'].items():
+#    ss += get_size_corpus(v['spanish'])
+#    st += get_size_corpus(v['tikuna'])
+
+# print(str(ss) + " " + str(st))
+
+# # number of tokens in documents
+# token_size_texts = {}
+# for key,value in corpus.items():
+#     text = ''.join(value)
+#     tokenizer = nltk.RegexpTokenizer(r"\w+")
+#     tok_words = tokenizer.tokenize(text)
+#     n_tokens = len(tok_words)
+#     token_size_texts[key] = n_tokens
+# token_size_texts = pd.DataFrame(token_size_texts, index=[0])
+# #print(token_size_texts)
+# # Remove punctuation to have only words
+# # frequency table
+
+# taille = 0
+# comptage = []
+# for key, value in tik_ebible_full.items():
+#     text = ''.join(value)
+#     tokenizer = nltk.RegexpTokenizer(r"\w+")
+#     tok_words = tokenizer.tokenize(text)
+#     for tokene in tok_words:
+#         match = re.search(r'[^0-9]',tokene)
+#         if match:
+#             comptage.append(tokene)
+# len(comptage)
